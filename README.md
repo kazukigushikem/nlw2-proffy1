@@ -35,8 +35,8 @@ A NLW é uma iniciativa criada pela Rocketseat de uma semana com muito conteúdo
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Tecnologias utilizadas](#-tecnologias)
 - [Layout](#-layout)
-- [Site de demonstração](#-eyes-site-de-demonstração)
-- [Instalar e Executar](#-construction_worker-instalar-e-executar)
+- [Site de demonstração](#-site-de-demo)
+- [Instalar e Executar](#-instalar-e-executar)
 - [Licença](#-licença)
 
 ---
@@ -96,7 +96,7 @@ Para acessar o Layout use o [Figma](https://www.figma.com/file/Snen317VmzHluRUHB
 
 ---
 
-# :eyes: Site de Demonstração
+## 👀 Site de Demo
 Você pode acessar o site em:     
 👉  demo: https://proffy-kazuki.netlify.app
 
@@ -104,7 +104,7 @@ Você pode acessar o site em:
 
 ---
 
-## :construction_worker: Instalar e Executar
+## 👷 Instalar e Executar
 
 Clone ou faça o downlod desse repositório:
 
