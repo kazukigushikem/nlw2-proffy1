@@ -24,7 +24,7 @@
 
 ---
 
-### 🤔 Mas o que é isso?
+## 🤔 Mas o que é isso?
 
 A NLW é uma iniciativa criada pela Rocketseat de uma semana com muito conteúdo prático, desafios, hacks e um projeto que nos ajudam a avançar para o próximo nível e impulsionar e incentivar a nossa carreira.
 
@@ -33,14 +33,14 @@ A NLW é uma iniciativa criada pela Rocketseat de uma semana com muito conteúdo
 ## 📑 Índice
 
 - [Sobre o Projeto](#-sobre-o-projeto)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Layout](#-design)
+- [Tecnologias utilizadas](#-tecnologias)
+- [Layout](#-layout)
 - [Instalar e Executar](#Executar-esse-projeto-no-seu-computador)
 - [Licença](#-licença)
 
 ---
 
-### ✨ Sobre o projeto:
+## ✨ Sobre o projeto:
 
 O Proffy é um projeto desenvolvido para conectar professores a alunos.
 > <p style="margin-left:5em">🏭  &nbsp;&nbsp;&nbsp;&nbsp;./server - API REST usando TypeScript, Express e banco de dados SQLite </p>
@@ -49,3 +49,45 @@ O Proffy é um projeto desenvolvido para conectar professores a alunos.
 
 ---
 
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Node.js](https://nodejs.org/en/)
+- [Knex](http://knexjs.org/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+
+---
+
+## 🎨 Layout
+
+Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/)
+Para acessar o Layout use o [Figma](https://www.figma.com/file/Snen317VmzHluRUHBRlzTE/Proffy-Web-Copy?node-id=0%3A1).
+
+<table>
+  <tr>
+    <td align="center" colspan="2">Web</td>
+  </tr>
+  <tr>
+    <td><img src="assets/web-landing.png" width="400px"></td>
+    <td><img src="assets/web-list.png" width="400px"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" colspan="2">Mobile</td>
+  </tr>
+  <tr>
+    <td><img src="assets/mobile-splash.png" width="180"></td>
+    <td><img src="assets/mobile-onboarding.png" width="180"></td>
+    <td><img src="assets/mobile-home.png" width="180"></td>
+    <td><img src="assets/mobile-favoritos.png" width="180"></td>
+  </tr>
+</table>
+
+---
