@@ -73,8 +73,8 @@ Para acessar o Layout use o [Figma](https://www.figma.com/file/Snen317VmzHluRUHB
     <td align="center" colspan="2">Web</td>
   </tr>
   <tr>
-    <td><img src="assets/web-landing.png" width="400px"></td>
-    <td><img src="assets/web-list.png" width="400px"></td>
+    <td><img src=".github/web-landing.png" width="400px"></td>
+    <td><img src=".github/web-list.png" width="400px"></td>
   </tr>
 </table>
 
@@ -83,10 +83,10 @@ Para acessar o Layout use o [Figma](https://www.figma.com/file/Snen317VmzHluRUHB
     <td align="center" colspan="2">Mobile</td>
   </tr>
   <tr>
-    <td><img src="assets/mobile-splash.png" width="180"></td>
-    <td><img src="assets/mobile-onboarding.png" width="180"></td>
-    <td><img src="assets/mobile-home.png" width="180"></td>
-    <td><img src="assets/mobile-favoritos.png" width="180"></td>
+    <td><img src=".github/mobile-splash.png" width="180"></td>
+    <td><img src=".github/mobile-onboarding.png" width="180"></td>
+    <td><img src=".github/mobile-home.png" width="180"></td>
+    <td><img src=".github/mobile-favoritos.png" width="180"></td>
   </tr>
 </table>
 
