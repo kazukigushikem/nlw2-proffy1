@@ -35,8 +35,8 @@ A NLW é uma iniciativa criada pela Rocketseat de uma semana com muito conteúdo
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Tecnologias utilizadas](#-tecnologias)
 - [Layout](#-layout)
-- [Site de demonstração](#-eyes-Site-de-Demonstração)
-- [Instalar e Executar](#-construction_worker-Instalar-e-Executar)
+- [Site de demonstração](#-site-de-demonstração)
+- [Instalar e Executar](#-instalar-e-executar)
 - [Licença](#-licença)
 
 ---
