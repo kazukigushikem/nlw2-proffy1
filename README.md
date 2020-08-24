@@ -35,7 +35,7 @@ A NLW é uma iniciativa criada pela Rocketseat de uma semana com muito conteúdo
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Tecnologias utilizadas](#-tecnologias)
 - [Layout](#-layout)
-- [Instalar e Executar](#Executar-esse-projeto-no-seu-computador)
+- [Instalar e Executar](#-construction_worker-Instalar-e-Executar)
 - [Licença](#-licença)
 
 ---
@@ -66,6 +66,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🎨 Layout
 
 Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/)
+<br>
 Para acessar o Layout use o [Figma](https://www.figma.com/file/Snen317VmzHluRUHBRlzTE/Proffy-Web-Copy?node-id=0%3A1).
 
 <div>
@@ -93,3 +94,132 @@ Para acessar o Layout use o [Figma](https://www.figma.com/file/Snen317VmzHluRUHB
 </div>
 
 ---
+
+## :construction_worker: Instalar e Executar
+
+Clone ou faça o downlod desse repositório:
+
+```
+# Clone o repositório
+$ git clone https://github.com/KazukiG/nlw2-proffy.git
+```
+
+#### Acesse a pasta server e faça as instalações:
+##### npm
+
+```
+# Acesse a pasta do backend
+$ cd server/
+
+# Instale as dependencias
+$ npm install
+
+# Execute as migrations
+$ npm knex:migrate
+
+# Execute os seeds
+$ npm knex:seed
+
+# Rode a API
+$ npm run dev
+
+# running on port 3333
+```
+
+##### yarn 
+
+```
+# Acesse a pasta do backend
+$ cd server/
+
+# Instale as dependencias
+$ yarn install
+
+# Execute as migrations
+$ yarn start
+
+# running on port 3333
+```
+
+#### Acesse a pasta web e faça as instalações:
+##### npm
+
+```
+# Acesse a pasta do frontend
+$ cd web/
+
+# Instale as dependencias
+$ npm install
+
+# Rode
+$ npm start
+
+# running on port 3000
+```
+
+##### yarn
+
+```
+# Acesse a pasta do frontend
+$ cd web/
+
+# Instale as dependencias
+$ yarn install
+
+# Rode
+$ yarn start
+
+# running on port 3000
+```
+
+#### Acesse a pasta mobile e faça as instalações:
+##### npm
+
+```
+# Acesse a pasta do mobile
+$ cd mobile/
+
+# Instale as dependencias
+$ npm install
+
+# Rode
+$ npm start
+
+# A Expo será aberta, basta digitalizar o qrcode no terminal ou na página da exposição
+
+# Se houver algum problema com as fontes, execute:
+$ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
+
+# Você pode installar o aplicativo Expo para testar no celular
+```
+
+##### yarn
+
+```
+# Acesse a pasta do mobile
+$ cd mobile/
+
+# Instale as dependencias
+$ yarn install
+
+# Rode
+$ yarn start
+
+# A Expo será aberta, basta digitalizar o qrcode no terminal ou na página da exposição
+
+# Se houver algum problema com as fontes, execute:
+$ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
+
+# Você pode installar o aplicativo Expo para testar no celular
+```
+
+---
+
+## 📕 Licença
+
+Todos os arquivos incluídos aqui, incluindo este _README_, estão sob [Licença MIT](./LICENSE).
+
+---
+
+Agradecimentos [Rocketseat](https://rocketseat.com.br/), [Adriana Lima](https://github.com/dxwebster), [Rafael Goulart](https://github.com/RafaelGoulartB), [Roberta Soares](https://github.com/rosooares)<br>
+Criado com ❤ por [KazukiG](https://github.com/KazukiG)
