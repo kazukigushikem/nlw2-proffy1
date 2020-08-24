@@ -68,26 +68,28 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/)
 Para acessar o Layout use o [Figma](https://www.figma.com/file/Snen317VmzHluRUHBRlzTE/Proffy-Web-Copy?node-id=0%3A1).
 
-<table>
-  <tr>
-    <td align="center" colspan="2">Web</td>
-  </tr>
-  <tr>
-    <td><img src=".github/web-landing.png" width="400px"></td>
-    <td><img src=".github/web-list.png" width="400px"></td>
-  </tr>
-</table>
+<div>
+   <table>
+   <tr>
+      <td align="center" colspan="2">Web</td>
+   </tr>
+   <tr>
+      <td><img src=".github/web-landing.png" width="400px"></td>
+      <td><img src=".github/web-list.png" width="400px"></td>
+   </tr>
+   </table>
 
-<table>
-  <tr>
-    <td align="center" colspan="2">Mobile</td>
-  </tr>
-  <tr>
-    <td><img src=".github/mobile-splash.png" width="180"></td>
-    <td><img src=".github/mobile-onboarding.png" width="180"></td>
-    <td><img src=".github/mobile-home.png" width="180"></td>
-    <td><img src=".github/mobile-favoritos.png" width="180"></td>
-  </tr>
-</table>
+   <table>
+   <tr>
+      <td align="center" colspan="4">Mobile</td>
+   </tr>
+   <tr>
+      <td><img src=".github/mobile-splash.png" width="180"></td>
+      <td><img src=".github/mobile-onboarding.png" width="180"></td>
+      <td><img src=".github/mobile-home.png" width="180"></td>
+      <td><img src=".github/mobile-favoritos.png" width="180"></td>
+   </tr>
+   </table>
+</div>
 
 ---
