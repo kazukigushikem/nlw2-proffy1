@@ -21,3 +21,31 @@
    <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5">
    </p>
 </div>
+
+---
+
+### 🤔 Mas o que é isso?
+
+A NLW é uma iniciativa criada pela Rocketseat de uma semana com muito conteúdo prático, desafios, hacks e um projeto que nos ajudam a avançar para o próximo nível e impulsionar e incentivar a nossa carreira.
+
+---
+
+## 📑 Índice
+
+- [Sobre o Projeto](#-sobre-o-projeto)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Layout](#-design)
+- [Instalar e Executar](#Executar-esse-projeto-no-seu-computador)
+- [Licença](#-licença)
+
+---
+
+### ✨ Sobre o projeto:
+
+O Proffy é um projeto desenvolvido para conectar professores a alunos.
+> <p style="margin-left:5em">🏭  &nbsp;&nbsp;&nbsp;&nbsp;./server - API REST usando TypeScript, Express e banco de dados SQLite </p>
+> <p style="margin-left:5em">🔮  &nbsp;&nbsp;&nbsp;&nbsp;./web - Interface web em ReactJS e TypeScript </p>
+> <p style="margin-left:5em">📱 &nbsp;&nbsp;&nbsp;&nbsp;./mobile - Interface mobile em ReactNative, TypeScript e Expo </p>
+
+---
+
