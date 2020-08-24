@@ -70,25 +70,25 @@ Para acessar o Layout use o [Figma](https://www.figma.com/file/Snen317VmzHluRUHB
 
 <div>
    <table>
-   <tr>
-      <td align="center" colspan="2">Web</td>
-   </tr>
-   <tr>
-      <td><img src=".github/web-landing.png" width="400px"></td>
-      <td><img src=".github/web-list.png" width="400px"></td>
-   </tr>
+      <tr>
+         <td align="center" colspan="2"><h3>Web<h3></td>
+      </tr>
+      <tr>
+         <td><img src=".github/web-landing.png" width="400px"></td>
+         <td><img src=".github/web-list.png" width="400px"></td>
+      </tr>
    </table>
 
    <table>
-   <tr>
-      <td align="center" colspan="4">Mobile</td>
-   </tr>
-   <tr>
-      <td><img src=".github/mobile-splash.png" width="180"></td>
-      <td><img src=".github/mobile-onboarding.png" width="180"></td>
-      <td><img src=".github/mobile-home.png" width="180"></td>
-      <td><img src=".github/mobile-favoritos.png" width="180"></td>
-   </tr>
+      <tr>
+         <td align="center" colspan="4"><h3>Mobile</h3></td>
+      </tr>
+      <tr>
+         <td><img src=".github/mobile-splash.png" width="180"></td>
+         <td><img src=".github/mobile-onboarding.png" width="180"></td>
+         <td><img src=".github/mobile-home.png" width="180"></td>
+         <td><img src=".github/mobile-favoritos.png" width="180"></td>
+      </tr>
    </table>
 </div>
 
