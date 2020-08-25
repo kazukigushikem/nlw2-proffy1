@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="../readme/Home.png"/>
-</p>
-
 # 📑 Índice
 
 ### [Front-end](#front-end)
